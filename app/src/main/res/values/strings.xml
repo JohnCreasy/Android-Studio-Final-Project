@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SportsQuizApp</string>
+    <string-array name ="quiz_category">
+        <item>All</item>
+        <item>AL West</item>
+        <item>AL Central</item>
+        <item>AL East</item>
+        <item>NL West</item>
+        <item>NL Central</item>
+        <item>NL East</item>
+    </string-array>
+</resources>
